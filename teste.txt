@@ -1,9 +1,0 @@
-Este é um arquivo de teste para aula de git.
-
--> mudança no documento
-
--> Criei novas linhas
-
-Linha 1
-
-Linha 2
